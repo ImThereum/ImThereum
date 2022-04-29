@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ImThereum
+- 👀 I’m interested in Lua and C++
+- 🌱 I’m currently learning Roblox LuaC & Expanding my C++ Knownladge
+- 💞️ I’m looking to collaborate on Mint!
+- 📫 How to reach me: Discord: Thereum#3482, Twitter: SecFucked

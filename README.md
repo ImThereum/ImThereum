@@ -1,5 +1,12 @@
-- 👋 Hi, I’m @ImThereum
-- 👀 I’m interested in Lua and C++
-- 🌱 I’m currently learning Roblox LuaC & Expanding my C++ Knownladge
-- 💞️ I’m looking to collaborate on Mint!
-- 📫 How to reach me: Discord: Thereum#3482 or ThereumV2#3829, Twitter: SecFucked
+Hello, my name is Che Barton!
+I'm a Developer and Manager of Ballistic Softworks.
+
+I have learned these languages over the years;
+CPP / C++ 😎
+C-Sharp / C# 😁
+Node.JS 👍
+HTML and CSS ✔
+and Z#! ❤
+
+Coding is my passion and I put hard work into it!
+Make sure to join this discord server! https://discord.gg/gqcQu4npDE

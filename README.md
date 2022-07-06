@@ -1,5 +1,6 @@
 Hello, my name is Che Barton!
 - I'm a Developer and Manager of Ballistic Softworks.
+- Backend of Ballistic Softworks
 
 I have learned these languages over the years;
 - CPP / C++ 😎
